@@ -6,6 +6,9 @@
 
 # Awesome Sysadmin [![certified awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+# About this fork  
+## This repo has been forked specifically because the new link provided is broken as of (2021-08-24)
+
 ## THIS LIST HAS BEEN DEPRECATED IN FAVOUR OF THE [TILDE AWESOME-SYSADMIN](https://awesome.tilde.fun/t/sysadmin) FORUM.
 
 ## THE GITHUB REPOSITORY HAS BEEN ARCHIVED.
